@@ -336,6 +336,7 @@
         "DESCRIPTION": "Envíar recordatorios móviles sobre tu racha diaria de tarjetas de estudio. Los recordatorios llegan a las 6 p.m. cada día, en tu zona horaria local.",
         "TITLE": "Notificaciones Móviles de Racha"
       },
+      "ADVANCED_KEYWORDS": "Palabras clave avanzadas",
       "AUTHENTICATION_KEYWORDS": "Palabras clave de autenticación"
     },
     "EARN_CREDIT": {
